@@ -1,0 +1,17 @@
+-quản lí bán chó:
++giống
++màu
++giới
+-quản lí thức ăn:
++bim bim que thịt bò 40k
++Gói NutriSource thịt gà, đậu Hà Lan thức ăn cho chó nhỏ 2,3kg 350k
++NutriSoure thịt gà, gạo nứt thức ăn cho chó con và nhỡ loại 142g 30k
++NutriSoure thịt gà, gạo nứt thức ăn cho chó lớn loại 142g 30k
++Thức ăn cao cấp từ thịt cá hồi tươi cho chó nhãn hiệu NutriSource 2,3kg 400k
+- quản lí phụ kiện:
++vòng cổ có mã QR
++bình uống nước treo
++bình uống nước cầm tay
++cốc rửa chân
++balo di động
++máy mài móng
