@@ -1,0 +1,19 @@
+QL:-------ng mua:
+		+xem hàng
+		+lọc
+		+giỏ hàng
+		+mua hàng
+		+xem đơn
+   -------ng bán:
+		+Ql hàng
+		+QL danh mục
+		+Ql đơn
+		+Ql khách
+		+thống kê
+
+-bảng:
+user(id_user, name_user,number,...)
+products(id_products ,name_products ,note_products, id_categories, tồn kho,...)
+categories(id_categories, name_categories, note_categories,...)
+orders(id_order, id_user, status, total, time,...)
+order_detail(id_order_detail, id_order, id_products, quantity[số lượng],...)
